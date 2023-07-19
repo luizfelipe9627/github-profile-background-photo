@@ -1,16 +1,3 @@
-<table align="right">
-  <tr>
-    <td>
-      <a href="readme-en.md">🇺🇸 English</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="README.md">🇧🇷 Português</a>
-    </td>
-  </tr>
-</table>
-
 ![luk4x-repo-status](https://img.shields.io/badge/Status-Finished-lightgrey?style=for-the-badge&logo=headspace&logoColor=green&color=lightgrey)
 ![luk4x-repo-license](https://img.shields.io/github/license/Luk4x/github-profile-background-photo?style=for-the-badge&logo=unlicense&logoColor=lightgrey)
 # 📷 Github Banner
